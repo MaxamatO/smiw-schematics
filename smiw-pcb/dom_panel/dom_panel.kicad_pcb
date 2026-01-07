@@ -2352,7 +2352,7 @@
 	(footprint "SN74AVC16T245DGGR:SOP50P810X120-48N"
 		(layer "F.Cu")
 		(uuid "90b5302b-3e72-48ca-aa7d-f5e1ac335138")
-		(at 145.72 96.75)
+		(at 146.28 96.25)
 		(property "Reference" "U3"
 			(at -1.495 -7.312 0)
 			(layer "F.SilkS")
