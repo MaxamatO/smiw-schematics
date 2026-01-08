@@ -6,7 +6,7 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 106.68 64.77)
+		(at 147.574 20.066)
 		(size 36.83 83.82)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22,7 +22,7 @@
 		)
 		(uuid "2c305250-bd22-4d86-813a-fbaa2c64fcf6")
 		(property "Sheetname" "LevelShifter_Sheet"
-			(at 106.68 64.0584 0)
+			(at 147.574 19.3544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31,7 +31,7 @@
 			)
 		)
 		(property "Sheetfile" "LevelShifter_Sheet.kicad_sch"
-			(at 106.68 149.1746 0)
+			(at 147.574 104.4706 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48,7 +48,49 @@
 		)
 	)
 	(sheet
-		(at 74.93 163.83)
+		(at 151.384 136.652)
+		(size 23.114 16.51)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7e597fe1-b9f6-4841-8c66-0119593b04f8")
+		(property "Sheetname" "LORA_SHEET"
+			(at 151.384 135.9404 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LORA_SHEET.kicad_sch"
+			(at 151.384 153.7466 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dom_panel"
+				(path "/8fbd3732-812c-4333-8351-7e7df938a7a4"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.538 172.212)
 		(size 12.7 13.97)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -64,7 +106,7 @@
 		)
 		(uuid "9273a7f8-db00-43bc-9dfc-e81c59836444")
 		(property "Sheetname" "PWR_LINE"
-			(at 74.93 163.1184 0)
+			(at 113.538 171.5004 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -73,7 +115,7 @@
 			)
 		)
 		(property "Sheetfile" "PWR_LINE.kicad_sch"
-			(at 74.93 178.3846 0)
+			(at 113.538 186.7666 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -90,7 +132,7 @@
 		)
 	)
 	(sheet
-		(at 176.53 31.75)
+		(at 217.17 16.51)
 		(size 12.7 119.38)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -106,7 +148,7 @@
 		)
 		(uuid "bbb302c7-5275-4c78-aba4-e98feb38b89a")
 		(property "Sheetname" "MCU_LCD_CONN"
-			(at 176.53 31.0384 0)
+			(at 217.17 15.7984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -115,7 +157,7 @@
 			)
 		)
 		(property "Sheetfile" "MCU_LCD_CONN.kicad_sch"
-			(at 176.53 151.7146 0)
+			(at 217.17 136.4746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -132,7 +174,7 @@
 		)
 	)
 	(sheet
-		(at 29.21 64.77)
+		(at 59.436 64.262)
 		(size 43.18 82.55)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -148,7 +190,7 @@
 		)
 		(uuid "f681c743-1a71-4d86-957c-ee57c62281c2")
 		(property "Sheetname" "MCU_Sheet"
-			(at 29.21 64.0584 0)
+			(at 59.436 63.5504 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -157,7 +199,7 @@
 			)
 		)
 		(property "Sheetfile" "MCU_Sheet.kicad_sch"
-			(at 29.21 147.9046 0)
+			(at 59.436 147.3966 0)
 			(effects
 				(font
 					(size 1.27 1.27)
